@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # Maulana Achsan - Data Analyst / Data Scientist
 
 👋 **Hi there!**  
