@@ -1,6 +1,6 @@
 # Maulana Achsan - Data Analyst / Data Scientist
 
-👋 **Hello There!**  
+# 👋 **Hello There!**  
 I'm Maulana Achsan, a data enthusiast passionate about turning raw data into actionable insights. With a strong background in business and data analytics, I leverage machine learning and data visualization to solve real-world problems. I also have international experience, having studied in Germany, which has broadened my perspective and refined my analytical skills.  
 
 ## 🔍 About Me
