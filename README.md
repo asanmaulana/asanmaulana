@@ -26,6 +26,6 @@ I'm Maulana Achsan, a data enthusiast passionate about turning raw data into act
 
 Proficiencies achieved : Data Cleaning, Data Visualization, Statistical Analysis, Machine Learning Fundamentals, Business Metrics, Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation, A/B Testing, SQL, Data Wrangling, and Project Collaboration.
 
-- Martin Luther University 
-
+- Martin Luther University
+  
 Graduated from Martin Luther University in Halle, Germany, with a Bachelor of Science in Business Management. My international experience immersed me in a diverse cultural environment, where I developed strong time management skills by balancing work and studies. This experience not only broadened my global perspective but also strengthened my ability to adapt and thrive in complex, fast-paced settings.
