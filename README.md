@@ -19,7 +19,8 @@ I'm Maulana Achsan, a data enthusiast passionate about turning raw data into act
 - **Visualization**: Tableau, Matplotlib, Seaborn, Kibana
 - **Tools**: Docker, Apache Airflow, PostgreSQL, Elasticsearch
 - **Machine Learning**: Regression, Clustering, NLP, Computer Vision
-
+- Other Skills : ETL Development, Data Cleaning, Time Management, Adaptability, Storytelling with Data
+  
 ## 🎓 Education 
 
 - Hacktiv8 Data Science Bootcamp 
